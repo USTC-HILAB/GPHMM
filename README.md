@@ -31,7 +31,7 @@ Additional information: population frequency of B allele (PFB) and GC content of
 
 -----------------------
 ##Quick Examples
-####(1) GPHMM (file "GPHMM.p" or "GPHMM.exe")
+GPHMM (file "GPHMM.p" or "GPHMM.exe")
 Description:the original function implementing the proposed algorithm
 Function:GPHMM (SNP_Array_Path, Pfb_File_Path, GC_File_Path, Result_Path, Genotype_Path, Sameformat)
 Arguments:
