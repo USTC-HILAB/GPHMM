@@ -1,4 +1,6 @@
-GPHMM:Parameter Hidden Markov Model
+#GPHMM
+Parameter Hidden Markov Model
+
 ==================================
 ##Introduction
 GPHMM is a novel statistical method dedicated to identify copy number alteration and loss of heterozygosity (LOH) in tumor samples using whole genome SNP arrays. In contrast to other HMM methods, a distinct feature of GPHMM is that the issues reported to tangle genotyping signals, such as baseline shift of LRR signal due to aneuploidy, normal cell contamination and genomic waves, are quantitatively modeled by global parameters and integrated in the whole statistical framework. Therefore GPHMM provides not only optimal solutions to these issues but also automatic and accurate identification of copy number and LOH status of each SNP in the array.<br>
